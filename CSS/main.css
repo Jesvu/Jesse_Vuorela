@@ -1,6 +1,24 @@
 body{
-    background-color: burlywood;
+    background-color: rgb(204, 133, 133);
 }
-div{
-    background-color:floralwhite;
+.navbar {
+    background-color:rgb(16, 247, 66);
+}
+
+.mb-3{
+    width: 25%;
+    text-align: center;
+}
+
+
+footer{
+    position: absolute;
+    bottom: 0;
+    padding:20px;
+    width: 100%;
+    background-color: white;
+}
+
+.col{
+    text-align: center;
 }
